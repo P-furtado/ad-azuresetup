@@ -51,7 +51,7 @@
 
 
 <p>
-<img width="776" alt="VM image" src="https://github.com/kirkgacias/ad-and-azuresetup/assets/158519921/f072cd7b-b547-4006-9ddb-ae6ba39c497e">
+<img width="776" alt="VM image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/303159359-f072cd7b-b547-4006-9ddb-ae6ba39c497e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T145136Z&X-Amz-Expires=300&X-Amz-Signature=b52ab8c2f257a71f965bd1123c12653a53a8d52ff9e1a933ac355d3bff06933c&X-Amz-SignedHeaders=host">
 </p>
 <p>
 <p><strong>.</strong></p>
